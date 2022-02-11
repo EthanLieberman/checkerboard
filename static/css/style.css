@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.wrapper{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.rows{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    display: inline-block;
+}
+
+.rows2{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    display: inline-block;
+}
